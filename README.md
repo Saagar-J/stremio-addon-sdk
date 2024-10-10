@@ -160,3 +160,4 @@ This example uses Node.js and Express to get user specific data. (Update: the Ad
 _built with love and serious coding skills by the Stremio Team_
 
 <img src="https://blog.stremio.com/wp-content/uploads/2023/08/stremio-code-footer.jpg" width="300" />
+://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex%7Csort=qualitysize%7Cqualityfilter=scr,cam%7Cdebridoptions=nodownloadlinks,nocatalog%7Crealdebrid=EVVLYLIKM4RPW3HOPO6YBXA6CDULLOBPJQPRU455PMDB26BL3EIQi/manifest.json
